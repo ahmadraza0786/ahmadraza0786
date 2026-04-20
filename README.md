@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ahmadraza0786
-- 👀 I’m interested in programming and software developing...
-- 🌱 I’m currently learning BSCS...
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me ...
-
-<!---
-ahmadraza0786/ahmadraza0786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
